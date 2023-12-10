@@ -7,15 +7,12 @@
 
 <div align="left">
 
--------
-
-[![cheez0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheez0909&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/cheez0909/github-readme-stats)
 
 <br>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://bi-sz.github.io/cheez0909/">
+    <a href="https://github.com/cheez0909/Spring">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
     </a>
     <a href="https://velog.io/@dani0817">
@@ -26,17 +23,7 @@
 
 </div><br>
 
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:eun081217@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
 
-</div><br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -101,12 +88,16 @@
 </div><br>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:eun081217@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sGFzzbsf">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+
+</div><br>
+
+[![cheez0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheez0909&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/cheez0909/github-readme-stats)
