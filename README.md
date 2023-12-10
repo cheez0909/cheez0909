@@ -1,27 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=180&color=D358F7&text=Dani's&fontSize=70&animation=scaleIn&fontAlign=80&fontAlignY=40&fontColor=ffffff)
 
-<!--
-**cheez0909/cheez0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 
-//Java
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-//MysQL
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
-//Oracle
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-
-//Eclipse
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-
-//github
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
-//aws
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-
-Here are some ideas to get you started:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheez0909&show_icons=true&locale=en&layout=compact" alt="cheez0909" /></p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
