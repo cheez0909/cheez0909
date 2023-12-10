@@ -83,7 +83,7 @@
     <a href="mailto:eun081217@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
+    <a href="https://open.kakao.com/o/sKEqRaXf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
     </a>
 </div>
