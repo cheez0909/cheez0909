@@ -75,7 +75,7 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheez0909&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![cheez0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheez0909&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/cheez0909/github-readme-stats)
+[![cheez0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheez0909&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/cheez0909/github-readme-stats)
 </div>
  
 ## 📞 𝒞𝑜𝓃𝓉𝒶𝒸𝓉
@@ -86,9 +86,7 @@
     <a href="https://open.kakao.com/o/sGFzzbsf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
     </a>
-
-</div><br>
-
+</div>
 </div>
   
 
