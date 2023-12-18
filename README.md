@@ -66,7 +66,7 @@
         <img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"> 
     </a>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dani0817)](https://github.com/cheez0909/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dani0817)](https://velog.io/@dani0817)
 
 </div><br>
 
